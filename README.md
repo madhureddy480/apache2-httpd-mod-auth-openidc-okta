@@ -18,6 +18,14 @@ Description: Assumption is you want to add Okta Authentication to your web applc
     a resource doesn't have to exists in the app serving redirect url.
 
     Step 4: Take note of client id, client secrete, open idc congiguration url.
+    
+    OIDCProviderMetadataURL https://dev-{your-okta-dev-account-number}.okta.com/.well-known/openid-configuration
+
+    OIDCRedirectURI http://www.madhukarnatitest.com:8080/myapp/vanityurl.html
+    
+    OIDCClientID 0oa5tlt37lYvpGj5d7
+    
+    OIDCClientSecret wVMDwJmedL_n66Q5rXxaXrZtd7bG58KNltf
 
     Step 5: Create few users in Okta with/without password/reset password/temp password. Okta admin portal will guide you. You can login to your web application using these users.
 
