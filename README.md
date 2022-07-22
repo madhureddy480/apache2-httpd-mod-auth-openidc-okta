@@ -2,7 +2,7 @@
 
 ##### Okta OpenIDC with Apache mod_auth_openidc Relying Party (RP)
 
-Description: Assumption is you want to add Okta Authentication to your web applciation and your web app is running behind a Apache webserver.
+Description: Assumption is you want to add Okta Authentication to your web applciation and your web app is running behind an Apache webserver.
 
 
 ### Okta OpenIDC Setup: 
