@@ -7,7 +7,7 @@ Description: Assumption is you want to add Okta Authentication to your web applc
 
 ### Okta OpenIDC Setup: 
 
-    Step 1: Setup a Okta developer free account
+    Step 1: Setup a Okta developer free account or singup through google login
 
     Step 2: Create a new web application
 
