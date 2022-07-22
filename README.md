@@ -70,6 +70,8 @@ Assumption is you want to add Okta Authentication to your web applciation and yo
 
     Step 8: restart the docker container, so that your configurations takes effect.
 
+    Step 9: goto http://myfirstwebapp.com:8080/myapp or http://myfirstwebapp.com:8080/html5up-phantom to see your browser redicting to Okta for sign in
+
     
    
     
