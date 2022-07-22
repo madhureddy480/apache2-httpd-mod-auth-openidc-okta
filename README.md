@@ -1,10 +1,8 @@
 # apache2-httpd-mod-auth-openidc-okta
 
-##### Okta OpenIDc with Apache mod_auth_openidc Relying Party (RP)
+##### Okta OpenIDC with Apache mod_auth_openidc Relying Party (RP)
 
-Description: This is a demo project if you want to setup Okta OpenID connect for you sample web application. 
-
-Assumption is you want to add Okta Authentication to your web applciation and your web app is running behind a Apache webserver.
+Description: Assumption is you want to add Okta Authentication to your web applciation and your web app is running behind a Apache webserver.
 
 
 ### Okta OpenIDC Setup: 
